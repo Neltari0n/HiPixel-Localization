@@ -1,0 +1,25 @@
+tile.ironchest:IRON.name=Залізна скриня
+tile.ironchest:GOLD.name=Золота скриня
+tile.ironchest:DIAMOND.name=Алмазна скриня
+tile.ironchest:COPPER.name=Мідна скриня
+tile.ironchest:SILVER.name=Срібна скриня
+tile.ironchest:CRYSTAL.name=Кришталква скриня
+tile.ironchest:OBSIDIAN.name=Обсидіанова скриня
+tile.ironchest:DIRTCHEST9000.name=ГлиноСкриня 9000!
+
+item.ironchest:IRONGOLD.name=Вдосконалення з Залізної до Золотої скрині
+item.ironchest:GOLDDIAMOND.name=Вдосконалення з Золотої до Алмазної скрині
+item.ironchest:COPPERSILVER.name=Вдосконалення з Мідної до Срібної скрині
+item.ironchest:SILVERGOLD.name=Вдосконалення з Срібної до Мідної скрині
+item.ironchest:COPPERIRON.name=Вдосконалення з Мідної до Залізної скрині
+item.ironchest:DIAMONDCRYSTAL.name=Вдосконалення з Діамантової до Криштальної скрині
+item.ironchest:WOODIRON.name=Вдосконалення з Дерев'яної до Залізної скрині
+item.ironchest:WOODCOPPER.name=Вдосконалення з Дерев'яної до Мідної скрині
+item.ironchest:DIAMONDOBSIDIAN.name=Вдосконалення з Алмазної до Обсидіанової скрині 
+
+book.ironchest:dirtchest9000.title=Як користауватися ГлиноСкринею 9000!
+book.ironchest:dirtchest9000.page1=Ласкаво просимо до вашої нової ГлиноСкрині 9000! We hope you will enjoy many happy years of storing your stack of dirt in our storage utility.
+book.ironchest:dirtchest9000.page2=Usage: simply insert the stack of dirt of your choice into the highly receptive slot and enjoy the great convenience of having that dirt available to you, any time you pass by this chest!
+book.ironchest:dirtchest9000.page3=We hope you have enjoyed reviewing this instruction manual, and hope you will consider using our products in future! Kind regards, The DirtChest 9000 manual writers incorporated.
+book.ironchest:dirtchest9000.page4=Warranty: This product has no warranty of any kind. Your dirt may not be stored, it may slowly leech into the environment, or alternatively, it may not do anything at all.
+book.ironchest:dirtchest9000.page5=DirtChest 9000 is kind to the environment. Please dispose of this guide book responsibly, and do not whatever you do just chuck it into some lava. We would be very sad.
